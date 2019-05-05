@@ -13,7 +13,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./assets/nvidia-architecture.png "Model Visualization"
+[image1]: ./assets/Nvidia-architecture.png "Model Visualization"
 [image2]: ./assets/center_track_one.jpg "Center"
 [image3]: ./assets/center_from_right.jpg "Recovery Image"
 [image4]: ./assets/center_track_two.jpg "Track 2"
